@@ -4,3 +4,5 @@ dist
 .DS_Store
 .idea/
 *.iml
+build/
+docker/1.11.0/final/py3/*.tar.gz
